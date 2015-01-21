@@ -33,6 +33,8 @@ Prints out a random animal saying a random number in the form of a web page.  In
                          (_(___/                         \_____)_)
 ```
 
+Currently used as an educational tool in a 2nd grade classroom.
+
 ## requirements
 
   - cowsay
